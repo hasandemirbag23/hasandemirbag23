@@ -9,21 +9,6 @@ Açık kaynak projelerimi bu profilde paylaşıyorum; geri bildirim ve iş birli
 
 ---
 
-## 🚀 Öne çıkan projeler
-
-| Proje | Açıklama |
-|--------|----------|
-| [**sigara-akciger-solunum-risk**](https://github.com/hasandemirbag23/sigara-akciger-solunum-risk) | NHANES verisi, Random Forest & XGBoost, Expo mobil + React web, FastAPI tahmin API |
-| [**Connect**](https://github.com/hasandemirbag23/Connect) | JavaScript tabanlı uygulama projesi |
-| [**sehir-yonetim-api**](https://github.com/hasandemirbag23/sehir-yonetim-api) | Akıllı şehir yönetim sistemi (Java API) |
-| [**E-COMMERCE--API**](https://github.com/hasandemirbag23/E-COMMERCE--API) | E-ticaret backend API |
-| [**3D-ARABA-OYUNU**](https://github.com/hasandemirbag23/3D-ARABA-OYUNU) | Three.js ile 3D araba yarışı |
-| [**Tabu-Okulu1**](https://github.com/hasandemirbag23/Tabu-Okulu1) | Okul / ders konulu tabu oyunu |
-
-👉 Tüm repolar: [github.com/hasandemirbag23?tab=repositories](https://github.com/hasandemirbag23?tab=repositories)
-
----
-
 ## 🌐 İletişim
 
   <a href="https://www.instagram.com/hsndmrb0/">
