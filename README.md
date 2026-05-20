@@ -1,10 +1,5 @@
 <h1 align="center">Merhaba, ben Hasan Hüseyin Demirbağ 👋</h1>
 
-<p align="center">
-  <b>Fırat Üniversitesi · Yazılım Mühendisliği · 3. sınıf</b><br/>
-  📍 Elazığ · Mobil, web ve veri odaklı projeler geliştiriyorum
-</p>
-
 ---
 
 ## 💫 Hakkımda
@@ -23,9 +18,7 @@ Açık kaynak projelerimi bu profilde paylaşıyorum; geri bildirim ve iş birli
 | [**Connect**](https://github.com/hasandemirbag23/Connect) | JavaScript tabanlı uygulama projesi |
 | [**sehir-yonetim-api**](https://github.com/hasandemirbag23/sehir-yonetim-api) | Akıllı şehir yönetim sistemi (Java API) |
 | [**E-COMMERCE--API**](https://github.com/hasandemirbag23/E-COMMERCE--API) | E-ticaret backend API |
-| [**2D-kebapdurum-oyunu**](https://github.com/hasandemirbag23/2D-kebapdurum-oyunu) | 2D dürüm hazırlama simülasyon oyunu |
 | [**3D-ARABA-OYUNU**](https://github.com/hasandemirbag23/3D-ARABA-OYUNU) | Three.js ile 3D araba yarışı |
-| [**Futbol-Tabu-oyunu**](https://github.com/hasandemirbag23/Futbol-Tabu-oyunu) | Futbol temalı tabu oyunu |
 | [**Tabu-Okulu1**](https://github.com/hasandemirbag23/Tabu-Okulu1) | Okul / ders konulu tabu oyunu |
 
 👉 Tüm repolar: [github.com/hasandemirbag23?tab=repositories](https://github.com/hasandemirbag23?tab=repositories)
@@ -34,10 +27,6 @@ Açık kaynak projelerimi bu profilde paylaşıyorum; geri bildirim ve iş birli
 
 ## 🌐 İletişim
 
-<p align="left">
-  <a href="https://github.com/hasandemirbag23">
-    <img src="https://img.shields.io/badge/GitHub-hasandemirbag23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.instagram.com/hsndmrb0/">
     <img src="https://img.shields.io/badge/Instagram-@hsndmrb0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
