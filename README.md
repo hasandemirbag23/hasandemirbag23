@@ -38,6 +38,12 @@ Açık kaynak projelerimi bu profilde paylaşıyorum; geri bildirim ve iş birli
   <a href="https://github.com/hasandemirbag23">
     <img src="https://img.shields.io/badge/GitHub-hasandemirbag23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.instagram.com/hsndmrb0/">
+    <img src="https://img.shields.io/badge/Instagram-@hsndmrb0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hasan-h%C3%BCseyin-demirba%C4%9F-7b122b296">
+    <img src="https://img.shields.io/badge/LinkedIn-Hasan_Hüseyin_Demirbağ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
