@@ -4,7 +4,7 @@
 
 ## 💫 Hakkımda
 
-Yazılım mühendisliği öğrencisiyim. **Mobil uygulama**, **web arayüzü**, **REST API** ve **makine öğrenmesi** ile uçtan uca projeler yapıyorum.  
+Yazılım mühendisliği öğrencisiyim. **Mobil uygulama**, **web uygulamları**, **REST API** ve **makine öğrenmesi** ile uçtan uca projeler yapıyorum.  
 Açık kaynak projelerimi bu profilde paylaşıyorum; geri bildirim ve iş birliğine açığım.
 
 ---
