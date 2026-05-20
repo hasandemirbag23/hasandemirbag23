@@ -5,7 +5,6 @@
 ## 💫 Hakkımda
 
 Yazılım mühendisliği öğrencisiyim. **Mobil uygulama**, **web arayüzü**, **REST API** ve **makine öğrenmesi** ile uçtan uca projeler yapıyorum.  
-Oyun geliştirme (2D/3D), e-ticaret API’leri, akıllı şehir ödevleri ve sağlık verisi analizi gibi farklı alanlarda çalışmalarım var.  
 Açık kaynak projelerimi bu profilde paylaşıyorum; geri bildirim ve iş birliğine açığım.
 
 ---
