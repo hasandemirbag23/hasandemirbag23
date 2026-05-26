@@ -41,20 +41,3 @@ Açık kaynak projelerimi bu profilde paylaşıyorum; geri bildirim ve iş birli
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=hasandemirbag23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=hasandemirbag23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hasandemirbag23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Beğendiğin projelere yıldız vermeyi unutma — destek olur!</i>
-</p>
